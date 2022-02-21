@@ -1,4 +1,8 @@
 ### Hi, everyone! 👋👋
+- 🔭 I’m currently working with Flutter and Blockchain
+- 🌱 I’m currently learning about Cloud computing and Data science
+- 📫 How to reach me: I'm very active in twitter
+
 
 <!--
 **pierorolando1/pierorolando1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
