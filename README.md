@@ -1,5 +1,8 @@
 Hi 👋 My name is Piero Rolando
-==============================Developer.----------I've been coding since I have 13, I have 2 years of experience working as a Freelancer, I love build robust, clean and scalable code.* 🌍  I'm based in World* 🖥️  See my portfolio at [here](http://github.com/pierorolando1)* ✉️  You can contact me at [rolandopiero63@gmail.com](mailto:rolandopiero63@gmail.com)* 🧠  I'm learning Pythorch and Azure
+==============================
+Developer.
+----------
+I've been coding since I have 13, I have 2 years of experience working as a Freelancer, I love build robust, clean and scalable code.* 🌍  I'm based in World* 🖥️  See my portfolio at [here](http://github.com/pierorolando1)* ✉️  You can contact me at [rolandopiero63@gmail.com](mailto:rolandopiero63@gmail.com)* 🧠  I'm learning Pythorch and Azure
 
 ### Skills
 
