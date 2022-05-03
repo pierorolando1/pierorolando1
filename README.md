@@ -9,7 +9,7 @@ I've been coding since I have 13, I have 2 years of experience working as a Free
 *   🌍  I'm based in World
 *   🖥️  See my portfolio at [here](http://github.com/pierorolando1)
 *   ✉️  You can contact me at [rolandopiero63@gmail.com](mailto:rolandopiero63@gmail.com)
-*   🧠  I'm learning Pythorch and Azure
+*   🧠  I'm learning Elixir, Pythorch and Azure
 
 ### Skills
 <p align="left">
