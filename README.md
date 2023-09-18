@@ -4,7 +4,7 @@ Hi 👋 My name is Piero Rolando
 Developer.
 ----------
 
-I've been coding since I have 13, I have 2 years of experience working as a Freelancer, I love build robust, clean and scalable code.
+I've been coding since I have 13, I have 3 years of experience working as a Freelancer, I love build robust, clean and scalable code.
 
 *   🌍  I'm based in World
 *   🖥️  See my portfolio at [here](http://github.com/pierorolando1)
