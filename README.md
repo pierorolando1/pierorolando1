@@ -7,7 +7,6 @@ Software Engineer.
 I've been coding since I was 13, I have 5 years of experience working as a Freelancer, I love build robust, clean and scalable code.
 
 *   🌍  I'm based in Peru
-*   ✉️  You can contact me at [rolandopiero63@gmail.com](mailto:rolandopiero63@gmail.com)
 *   🧠  I'm learning Elixir, Pythorch and Azure
 
 ### Skills
